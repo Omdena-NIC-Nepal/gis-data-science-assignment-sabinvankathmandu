@@ -9,6 +9,6 @@ notebook
 folium
 fiona
 shapely
-contextily
-rasterstats
-descartes
+
+
+
